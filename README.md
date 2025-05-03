@@ -91,4 +91,4 @@ Include "Forgot Password" link for account recovery.
 Tested By
 Name: Akash Yadav
 Browser Used: Chrome
-Device: Windows 10 Laptop
+Device: Windows 11 Laptop
